@@ -56,7 +56,7 @@ const MidiMonitor = () => {
       )}
 
       <div className={styles.footer}>
-        <p>Designed by Lluís Agustí using Tone.js For Playtronica.</p>
+        <p>Designed by Lluís Agustí using Tone.js for Playtronica.</p>
       </div>
     </div>
   );

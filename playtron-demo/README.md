@@ -1,16 +1,46 @@
-# React + Vite
+# Playtron Touch 🎹🍍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Turn the world into your orchestra.**
 
-Currently, two official plugins are available:
+Welcome to the **Playtron Touch Demo**. This isn't just a piano; it's a portal. A portal where pineapples play jazz, spoons drop beats, and your own fingers become the conductor of a digital symphony.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built for the **Playtronica Playtron**, this web app transforms simple touch into rich, textured sound. It's safe, it's stylish, and it's ready to make your desk weird.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Experience It
 
-## Expanding the ESLint configuration
+1.  **Plug In**: Connect your [Playtron](https://playtronica.com/) via USB.
+2.  **Clip On**: Attach alligator clips to anything conductive. (Fruit? Yes. Water? Sure. Your friend? Ask first.)
+3.  **Run**:
+    ```bash
+    npm run dev
+    ```
+4.  **Touch**: Touch the objects and watch the screen come alive.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔮 The Vibe
+
+We've ditched the boring buttons for a **2024 Glassmorphism** aesthetic. Deep space gradients meet reactive neon that pulses with every note. It’s responsive, fluid, and designed to look as good as your music sounds (even if your music is just banging on a cucumber).
+
+### Features
+*   **Virtual Piano**: A visual synthesizer that mirrors your physical connections.
+*   **Sample Grid**: Punchy drum pads for when you need to drop a beat on a banana.
+*   **Audio Engine**: Powered by **Tone.js** for low-latency, high-fidelity synthesis.
+*   **Plug & Play**: Works instantly with the Web MIDI API. No drivers, no fuss.
+
+---
+
+## 🛠 Tech Stack
+
+*   **Vite + React** for lightning-fast rendering.
+*   **Tone.js** for the audio magic.
+*   **Framer Motion** for the buttery smooth animations.
+*   **Web MIDI API** for talking to the hardware.
+
+---
+
+> "Everything is a musical instrument if you're brave enough."
+
+*Designed by Lluís Agustí using Tone.js For Playtronica.*
